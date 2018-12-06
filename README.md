@@ -1,6 +1,3 @@
-# cryptosuite-application
-A small cryptosuite application written in C++
-
 # CryptoSuite
 
 > This project implements a small cryptosuite application to demonstrate modular operations (addition,multiplication and exponentiation),GCD, Inverse Modulo, Discrete logarithm (using either Pohlig-Hellman, index calculus, Pollard-rho or the basic Baby Step Giant Step algorithm), RSA cryptosystem and Field Operations in Prime Fields and Binary Fields using the biginteger class in C++.
