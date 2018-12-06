@@ -8,6 +8,22 @@ It was made as the final project for CS 101 - **Computer Programming and Utilisa
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+1. Install the package by cloning this repo using the following command.
+```
+git clone https://github.com/saiteja-talluri/cryptosuite-application.git
+```
+2. Navigate to the folder containing the main.cpp file. Run the following command to compile the file.
+
+```
+g++ main.cpp -o main
+```
+3. Now run the executable main generated in the src folder using the following command.
+
+```
+./main
+```
+   Now you can use all the functionalities provided by our cryptosuite application.
+
 
 ## Authors
 
